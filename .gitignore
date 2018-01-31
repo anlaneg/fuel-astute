@@ -19,5 +19,7 @@ raemon/
 *.svg
 *.png
 
+.project
+.pydevproject
 *.yaml
 !examples/example_astute_config.yaml
